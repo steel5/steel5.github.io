@@ -1982,7 +1982,7 @@ body {
 .cid-qXtgQ5HMtR {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #55b4d4;
 }
 .cid-qXtgQ5HMtR .card-img {
   background-color: #fff;
@@ -1992,7 +1992,7 @@ body {
   padding-top: 2rem;
 }
 .cid-qXtgQ5HMtR .card-box {
-  background-color: #ffffff;
+  background-color: #55b4d4;
   padding: 2rem;
 }
 .cid-qXtgQ5HMtR h4 {
@@ -2004,7 +2004,7 @@ body {
   text-align: left;
 }
 .cid-qXtgQ5HMtR .mbr-text {
-  color: #767676;
+  color: #efefef;
 }
 .cid-qXtgQ5HMtR .card-wrapper {
   height: 100%;
@@ -2021,6 +2021,9 @@ body {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-qXtgQ5HMtR .card-title {
+  color: #ffffff;
 }
 .cid-qXtgTl6rwW {
   padding-top: 90px;
@@ -2070,7 +2073,7 @@ body {
 .cid-qXtgZsPQ9E {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #55b4d4;
 }
 .cid-qXtgZsPQ9E .mbr-iconfont {
   font-size: 48px;
@@ -2107,7 +2110,7 @@ body {
   font-style: italic;
 }
 .cid-qXtgZsPQ9E .mbr-text {
-  color: #767676;
+  color: #000000;
 }
 .cid-qXtgZsPQ9E a:not([href]):not([tabindex]) {
   color: #fff;
