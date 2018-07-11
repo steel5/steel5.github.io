@@ -741,7 +741,7 @@
           "_params": {
             "slides__autoplay": true,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": false,
+            "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/1478796945-cr-9-1280x772.jpg",
